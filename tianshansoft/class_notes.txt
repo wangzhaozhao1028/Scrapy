@@ -1,0 +1,9 @@
+#
+
+课堂笔记
+
+原始资料    ElT脚本  结构化数据
+网络爬虫
+
+pip install jupyter
+sudo apt install jupyter-notebook
