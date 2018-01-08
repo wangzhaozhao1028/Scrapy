@@ -31,4 +31,4 @@ for news in soup.select('._f_con_t cm_tit'):
 # 工具INFILIte
 # http://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
-
+#test
